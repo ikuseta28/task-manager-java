@@ -44,6 +44,7 @@ src/
 
 ``bash  
 git clone https://github.com/ikuseta28/task-manager-java.git``
+
 2. Open the project in your IDE (IntelliJ IDEA or Eclipse).
 3. Configure PostgreSQL connection in DatabaseConnection.java.
 4. Run Main.java and follow the console instructions.
